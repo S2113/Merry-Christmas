@@ -9,11 +9,11 @@ var bg;
 
 var snow=[];
 var snowFight1Img;
-var snowFIght2Img;
+var snowFight2Img;
 var snowBallImg;
 
 var snowFight1;
-var snowFIght2;
+var snowFight2;
 var snowBall;
 
 function preload()
